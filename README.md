@@ -1,6 +1,4 @@
-### RL-TaxiSim: Reinforcement Learning for Taxi Optimization  
-
-### **README.md**  
+  
 
 # RL-TaxiSim: Reinforcement Learning for Taxi Optimization  
 
