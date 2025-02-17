@@ -1,4 +1,4 @@
-### **Project Name:** RL-TaxiSim: Reinforcement Learning for Taxi Optimization  
+### **RL-TaxiSim: Reinforcement Learning for Taxi Optimization  
 
 ### **README.md**  
 
